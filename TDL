@@ -1,0 +1,25 @@
+User Requirements
+Moduler Project Structure
+Specs
+Look-up Table generation in software
+UI
+Measurement of Success Correlation
+Phase adjsutment
+Offset
+External Clock
+2-channel (Internal)
+
+Sretch Goals
+Real-Time difference
+
+
+Input:
+	Take and make table and control table
+Processing:
+	Control signals
+	Phase adjustment
+	multiple signals, higher frequency
+	volume, power
+Output:
+	External amplification control
+	
